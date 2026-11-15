@@ -16,4 +16,4 @@
 - `.vitepress/`：站点配置（中文根 locale + `/original/` 英文原文）
 - `scripts/build-epub.ts`：从 `books/` 打包 epub
 
-中文翻译进行中：第一卷（Vol. 1: In）第 1–12 章已全部译毕，译名对照表见 `99/`；英文原文可在站点 `/original/` 阅读。
+中文翻译已完结：全书两卷 20 章均已译毕，译名对照表见 `99/`；英文原文可在站点 `/original/` 阅读。
