@@ -6,7 +6,7 @@
 
 本仓库把 to-the-stars 的存档流水线迁移到《Persephone's Waltz》：原文存档、译文阅读版、VitePress 站点与 epub 打包四层结构保持一致，便于在 AO3 不可访问时继续阅读与分发。
 
-中文翻译进行中：第 1–7 章已译毕，译名对照表见 `books/99/`；英文原文由 `scripts/update-source.ts` 同步到 `original/`，可在站点 `/original/` 阅读。
+中文翻译进行中：第一卷（Vol. 1: In）第 1–12 章已全部译毕，译名对照表见 `books/99/`；英文原文由 `scripts/update-source.ts` 同步到 `original/`，可在站点 `/original/` 阅读。
 
 ## 作品简介
 
