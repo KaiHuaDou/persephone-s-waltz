@@ -5,4 +5,6 @@
   "no-emphasis-as-heading": false,
   // 允许使用 <br/> 标签
   "no-inline-html": false,
+  // 允许结尾标点（作者风格）
+  "no-trailing-punctuation": false,
 }

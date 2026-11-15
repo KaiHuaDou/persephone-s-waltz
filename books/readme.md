@@ -16,4 +16,4 @@
 - `.vitepress/`：站点配置（中文根 locale + `/original/` 英文原文）
 - `scripts/build-epub.ts`：从 `books/` 打包 epub
 
-中文翻译进行中：简介与第 1 章已译毕，译名对照表见 `99/`；英文原文可在站点 `/original/` 阅读。
+中文翻译进行中：第 1–7 章已译毕，译名对照表见 `99/`；英文原文可在站点 `/original/` 阅读。
