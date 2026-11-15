@@ -229,7 +229,7 @@ const pagefindCommand = `node "${pagefindBin}" --site "${pagefindOutDir}" --excl
 const config: UserConfig = {
   title: '魔法少女小圆 - 珀耳塞福涅的华尔兹',
   description:
-    '在一次次拯救鹿目圆失败之后，晓美焰愈发绝望……直到把圆绑架、锁进地下室，等沃尔普吉斯之夜过去——这个点子听起来都不算疯狂了。',
+    '在一次次拯救鹿目圆失败之后，晓美焰愈发绝望……直到「绑架圆、把她锁进地下室、直到沃尔普吉斯之夜结束为止」——这样的点子听起来已经不算疯狂了。',
   sitemap: { hostname },
   ignoreDeadLinks: true,
   // srcDir 上移到仓库根后，排除仓库根下的非站点 md（根 README、分析文档、参考克隆）
