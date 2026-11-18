@@ -17,6 +17,12 @@
 - 卷 01 - In（第 1–12 章）
 - 卷 02 - Out（第 13–20 章）
 
+## 中文翻译
+
+- 翻译：GLM-5.3 Flash
+- 校对：DeepSeek V4.1 Flash 1017
+- 二校：人类
+
 ## 维护
 
 初始化
@@ -27,7 +33,7 @@
 4. `pnpm build-all` 构建站点与 epub
 5. `pnpm deploy` 发布站点
 
-原文同步默认访问 AO3；AO3 不可用（维护、成人内容拦截、网络错误）时自动回退到固定 Wayback Machine 快照（2021-09-25），保证结果可复现。常用参数：
+原文同步默认访问 AO3；AO3 不可用时自动回退到固定 Wayback Machine 快照（2021-09-25），保证结果可复现。常用参数：
 
 - `pnpm update:source -- --wayback`：强制使用固定的 Wayback 快照
 - `pnpm update:source -- --wayback 20210925115244`：指定快照时间戳
