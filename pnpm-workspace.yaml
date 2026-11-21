@@ -1,2 +1,5 @@
 minimumReleaseAge: 0
 autoDedupe: true
+
+lockfile:
+  includeResolutionSettings: true
