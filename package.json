@@ -17,9 +17,9 @@
     "update:source": "node scripts/update-source.ts"
   },
   "devDependencies": {
-    "@ffflorian/jszip-cli": "^3.18.1",
+    "@ffflorian/jszip-cli": "^3.18.2",
     "@types/hast": "^3.0.5",
-    "@types/node": "^26.6.6",
+    "@types/node": "^26.6.11",
     "autocorrect": "^1.2.0",
     "domutils": "^4.0.2",
     "feed": "^6.0.0",
@@ -35,7 +35,7 @@
     "markdownlint": "^0.41.1",
     "mdast-util-gfm-strikethrough": "^2.0.1",
     "mdast-util-gfm-table": "^2.0.1",
-    "mdast-util-to-markdown": "^2.2.4",
+    "mdast-util-to-markdown": "^2.2.5",
     "node-html-parser": "^9.0.7",
     "oxfmt": "latest",
     "oxlint": "latest",
